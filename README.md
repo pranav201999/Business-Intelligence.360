@@ -3,7 +3,7 @@ SQL Data Exploration & Power BI Dashboard
 ## Abstract 
 - This Project provides insights on Finance, sales, Marketing, and Supply Chain to the Management. AtliQ Hardware is a company that Sells and Manufactures Hardware. They have Customers all over the world and Products under various categories.
 ## Link to My Dashboard
--[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTMwOGQ1ZWItMjM2Ni00MTkyLWI2MDUtODc4NTNiYTY3NmY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+- ** [Power BI Dashboard - Business Intelligence 360 ](https://app.powerbi.com/view?r=eyJrIjoiYTMwOGQ1ZWItMjM2Ni00MTkyLWI2MDUtODc4NTNiYTY3NmY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) **
 ## Business related terms 
 - Gross price Pre-invoice deductions post-invoice deductions Net Invoice sale Gross Margin Net sales Net profit COGC - cost of goods sold YTD - Year to Date YTG - Year to Go Direct Retailer Distributors Consumer
 ## SQL Workbench 
